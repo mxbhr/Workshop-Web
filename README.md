@@ -37,7 +37,7 @@ Completez le code pour pouvoir utiliser correctement les diffentes requetes/repo
 
 ## Exercice 3: Refacto !
 
-Créez 2 nouvelles routes sur votre api afin de modifier de pouvoir cocher/décochez une todo !
+Créez 2 nouvelles routes sur votre api afin de modifier er pouvoir cocher/décochez dans votre todo-list !
 
 ## Bonus
 
